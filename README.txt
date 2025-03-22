@@ -13,5 +13,11 @@
 -------> Tecnologias utilizadas:
 
 	. PHP com Laravel
-	. MYSQL
+	. Google MYSQL Cloud
 	. HTML, CSS e Javascript
+	. React.js
+
+-------> Esquema relacional Banco de Dados:
+
+	USUÁRIO: pode consultar, atualizar e adiquirir novas reservas. Assim como, consegue-se consultar e atualizar seus dados no seu cadastramento e pagar seus débitos.
+	ADMINISTRADOR: pode atualizar reservas, alterar formas de pagamentos, adicionar e remover carros, atualizar documentos dos veículos e seguradoras.
