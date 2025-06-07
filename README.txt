@@ -10,12 +10,9 @@
 	FlatIcon.com : usado para obter as imagens concedidas nas páginas principais
 	
 
--------> Tecnologias utilizadas:
+-------> Tecnologias utilizadas nessa branch:
 
-	. PHP com Laravel
-	. Google MYSQL Cloud
 	. HTML, CSS e Javascript
-	. React.js
 
 -------> Esquema relacional Banco de Dados:
 
